@@ -45,7 +45,7 @@ nav.header{
     margin:0;
 }
 .content{
-    background-image: url(./images/Background.jpg);
+    background-image: url(./Background.jpg);
     padding:1px;
     margin:0px;
     background-repeat: no-repeat;
@@ -109,7 +109,7 @@ nav.header{
     color:white;
 }
 .A-content{
-    background-image: url(./images/about_back);
+    background-image: url(./about_back);
     padding:1px;
     background-size: cover;
     background-repeat: no-repeat;
