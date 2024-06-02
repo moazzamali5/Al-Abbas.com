@@ -1,0 +1,120 @@
+#head{
+    font-size: 40px;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 80px;
+    color: rgb(109, 71, 1);
+    font-weight:bold;
+    padding: 100px;
+    }
+nav ul{
+    float: right;
+    margin-right: 40px;
+}
+nav ul li{
+    display:inline-block;
+    padding:20px
+}
+nav ,ul ,li ,a{
+    font-size: 30px;
+    color:rgb(243, 55, 8);
+    font-weight: bold;
+}
+a.c:hover , a.active{
+    background-color:yellow;
+    height:100px;
+    padding-bottom: 35%;
+}
+*{
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+nav.header{
+    background: rgb(91, 235, 91);
+    height: 100px;
+}
+.strip1{
+    background-color: yellow;
+    padding:0;
+    margin:0;
+}
+.strip2{
+    background-color: orange;
+    padding:0;
+    margin:0;
+}
+.content{
+    background-image: url(./images/Background.jpg);
+    padding:1px;
+    margin:0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.crop{
+    float:right;
+    width:12%;
+}
+.Q1,.Q2{
+    color:white;
+    font-size: 40px;
+}
+.A1,.A2{
+    color: white;
+    font-size:20px;
+}
+.agriculture{
+    float:right;
+}
+.logo{
+    float:left;
+    width:10%;
+    margin-left:2%;
+    margin-right:-104px;
+    
+}
+.footer{
+    background-color: black;
+    padding:1px;
+}
+.foot{
+    text-decoration: none;
+    text-align: center;
+}
+.contact{
+    font-size:30px;
+    color:white;
+    padding:20px;
+    
+}
+.extra{
+    color:white;
+    text-align: center;
+}
+.follow{
+    color:white;
+    margin-left: 20%;
+}
+.facebook{
+    width:8%;
+    margin-left: 20%;
+}
+.instagram{
+    width:12%;
+}
+.youtube{
+    width:14%;
+}
+.A-head{
+    color:white;
+}
+.A-content{
+    background-image: url(./images/about_back);
+    padding:1px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+body{
+    margin:0px;
+}
